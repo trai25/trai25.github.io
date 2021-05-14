@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://trai25.me</id>
-    <title></title>
-    <updated>2021-05-11T22:48:37.228Z</updated>
+    <title>《进步志》</title>
+    <updated>2021-05-14T15:26:26.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://trai25.me"/>
     <link rel="self" href="https://trai25.me/atom.xml"/>
-    <subtitle>YLEM</subtitle>
+    <subtitle>DO MORE</subtitle>
     <logo>https://trai25.me/images/avatar.png</logo>
     <icon>https://trai25.me/favicon.ico</icon>
-    <rights>All rights reserved 2021, </rights>
+    <rights>All rights reserved 2021, 《进步志》</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://trai25.me/post/hello-gridea/</id>
